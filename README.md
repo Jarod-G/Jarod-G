@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jarod-G
-- 👀 I’m interested in programming :p
+- 👀 I’m interested in software programming
 - 🌱 I’m currently learning web/games development
 - 📫 How to reach me contact me at ginjarod@gmail.com
 
