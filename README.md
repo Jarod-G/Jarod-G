@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jarod-G
 - 👀 I’m interested in software programming
-- 🌱 I’m currently learning web/games development
+- 🌱 I’m currently learning web/games development and how works API
 - 📫 How to reach me contact me at ginjarod@gmail.com
 
 <!---
