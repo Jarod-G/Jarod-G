@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jarod-G
 - 👀 I’m interested in software programming
-- 🌱 I’m currently learning web/games development and how works API
+- 🌱 I’m currently learning C and UNIX
 - 📫 How to reach me ? Visit my website : https://jarod-gineste.alwaysdata.net or contact me at ginjarod@gmail.com
 
 <!---
